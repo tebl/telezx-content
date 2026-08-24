@@ -1,0 +1,14 @@
+ZXDocument:
+    abbreviation: TOC-R
+    description: Table of contents (R)
+    document_id: 9919
+    link_a: 9900
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 9919.00.zxtoken

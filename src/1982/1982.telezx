@@ -1,0 +1,47 @@
+ZXDocument:
+    abbreviation: '1982'
+    description: Released 1982
+    document_id: 1982
+    link_a: 1980
+    link_a_txt: null
+    link_b: 1981
+    link_b_txt: null
+    link_c: 1983
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 1982.00.zxtoken
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: The Hobbit Screenshot
+            scr_path: 1982.01.scr
+            text_attribute: -2
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "

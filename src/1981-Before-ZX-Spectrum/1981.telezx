@@ -1,0 +1,14 @@
+ZXDocument:
+    abbreviation: '1981'
+    description: Before the ZX Spectrum
+    document_id: 1981
+    link_a: 1980
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: 1982
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 1981.00.zxtoken
