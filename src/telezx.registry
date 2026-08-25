@@ -21,6 +21,9 @@ ZXRegistry:
         '1985':
             abbreviation: '1985'
             description: Released 1985
+        '1986':
+            abbreviation: '1986'
+            description: Released 1986
         '9900':
             abbreviation: TOC
             description: Table of contents
