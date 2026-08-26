@@ -27,6 +27,9 @@ ZXRegistry:
         '9900':
             abbreviation: TOC
             description: Table of contents
+        '9999':
+            abbreviation: About
+            description: About TeleZX
     ignored:
     - '9901'
     - '9902'
