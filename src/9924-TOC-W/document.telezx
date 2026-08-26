@@ -1,0 +1,14 @@
+ZXDocument:
+    abbreviation: TOC-W
+    description: Table of contents (W)
+    document_id: 9924
+    link_a: 9900
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken

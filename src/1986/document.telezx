@@ -1,0 +1,14 @@
+ZXDocument:
+    abbreviation: '1986'
+    description: Released 1986
+    document_id: 1986
+    link_a: 1980
+    link_a_txt: null
+    link_b: 1985
+    link_b_txt: null
+    link_c: 1987
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
