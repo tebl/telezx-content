@@ -14,8 +14,8 @@ ZXDocument:
             zxtoken_path: 00.zxtoken
     -   ZXPage_Overlay:
             scr_about:
-                author: ''
-                license: ''
+                author: 'TeleZX'
+                license: 'CC BY 4.0'
                 source: Jetpac_1983_Ultimate_Play_The_Game_16K.scr
                 title: Jetpac 1983 Ultimate Play The Game 16K
             scr_path: 01-Jet-Pac.scr
