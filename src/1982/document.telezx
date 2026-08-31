@@ -18,7 +18,7 @@ ZXDocument:
                 license: CC BY 4.0
                 source: Fuse Emulator
                 title: The Hobbit Screenshot
-            scr_path: 01.scr
+            scr_path: 01-The-Hobbit.scr
             text_attribute: -2
             text_lines:
             - "                                "
