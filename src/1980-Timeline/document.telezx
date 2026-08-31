@@ -1,12 +1,12 @@
 ZXDocument:
     abbreviation: Timeline
     description: Sinclair computing Timeline
-    document_id: 1980
-    link_a: 1000
+    document_id: 0x1980
+    link_a: 0x1000
     link_a_txt: null
     link_b: null
     link_b_txt: null
-    link_c: 1981
+    link_c: 0x1981
     link_c_txt: null
     pages:
     -   ZXPage_Token:

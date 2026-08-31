@@ -1,8 +1,8 @@
 ZXDocument:
     abbreviation: Start
     description: Start page
-    document_id: 1000
-    link_a: 9900
+    document_id: 0x1000
+    link_a: 0xff00
     link_a_txt: null
     link_b: null
     link_b_txt: null

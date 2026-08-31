@@ -1,12 +1,12 @@
 ZXDocument:
-    abbreviation: '1984'
-    description: Released 1984
-    document_id: 0x1984
-    link_a: 0x1980
+    abbreviation: TOC-X
+    description: Table of contents (X)
+    document_id: 0xff19
+    link_a: 0xff00
     link_a_txt: null
-    link_b: 0x1983
+    link_b: null
     link_b_txt: null
-    link_c: 0x1985
+    link_c: null
     link_c_txt: null
     pages:
     -   ZXPage_Token:
