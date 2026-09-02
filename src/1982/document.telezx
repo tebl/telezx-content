@@ -12,13 +12,19 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01-ZX-Spectrum.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02-Inside-ZX-Spectrum.zxtoken
     -   ZXPage_Overlay:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
                 source: Fuse Emulator
                 title: The Hobbit Screenshot
-            scr_path: 01-The-Hobbit.scr
+            scr_path: 03-The-Hobbit.scr
             text_attribute: -2
             text_lines:
             - "                                "
