@@ -14,12 +14,14 @@ ZXDocument:
             zxtoken_path: 00.zxtoken
     -   ZXPage_Overlay:
             scr_about:
-                author: 'TeleZX'
-                license: 'CC BY 4.0'
+                author: TeleZX
+                license: CC BY 4.0
                 source: Fuse Emulator
                 title: Jetpac 1983 Ultimate Play The Game 16K
             scr_path: 01-Jet-Pac.scr
-            text_attribute: -2
+            text_attribute: 56
+            text_link_attribute: 0x39
+            text_blank_character: _
             text_lines:
             - "                                "
             - "                                "
@@ -33,9 +35,9 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
-            - " JET PAC                        "
-            - " Ultimate                       "
-            - " Play the Game                  "
+            - " _JET PAC_______                "
+            - " _Ultimate______                "
+            - " _Play the Game_                "
             - "                                "
             - "                                "
             - "                                "
