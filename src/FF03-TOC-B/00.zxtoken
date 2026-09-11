@@ -628,19 +628,19 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             27:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             28:
-                attribute: 57
+                attribute: 59
                 char_code: 57
                 inverted: -1
             29:
-                attribute: 57
+                attribute: 59
                 char_code: 56
                 inverted: -1
             30:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             31:

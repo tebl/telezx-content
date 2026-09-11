@@ -628,19 +628,19 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             27:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             28:
-                attribute: 57
+                attribute: 59
                 char_code: 57
                 inverted: -1
             29:
-                attribute: 57
+                attribute: 59
                 char_code: 56
                 inverted: -1
             30:
-                attribute: 57
+                attribute: 59
                 char_code: 50
                 inverted: -1
             31:
@@ -757,19 +757,19 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             27:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             28:
-                attribute: 57
+                attribute: 59
                 char_code: 57
                 inverted: -1
             29:
-                attribute: 57
+                attribute: 59
                 char_code: 56
                 inverted: -1
             30:
-                attribute: 57
+                attribute: 59
                 char_code: 51
                 inverted: -1
             31:
@@ -886,19 +886,19 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             27:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             28:
-                attribute: 57
+                attribute: 59
                 char_code: 57
                 inverted: -1
             29:
-                attribute: 57
+                attribute: 59
                 char_code: 56
                 inverted: -1
             30:
-                attribute: 57
+                attribute: 59
                 char_code: 52
                 inverted: -1
             31:
@@ -1015,19 +1015,19 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             27:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             28:
-                attribute: 57
+                attribute: 59
                 char_code: 57
                 inverted: -1
             29:
-                attribute: 57
+                attribute: 59
                 char_code: 56
                 inverted: -1
             30:
-                attribute: 57
+                attribute: 59
                 char_code: 53
                 inverted: -1
             31:
@@ -1144,19 +1144,19 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             27:
-                attribute: 57
+                attribute: 59
                 char_code: 49
                 inverted: -1
             28:
-                attribute: 57
+                attribute: 59
                 char_code: 57
                 inverted: -1
             29:
-                attribute: 57
+                attribute: 59
                 char_code: 56
                 inverted: -1
             30:
-                attribute: 57
+                attribute: 59
                 char_code: 54
                 inverted: -1
             31:
