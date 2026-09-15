@@ -3,36 +3,47 @@ ZXRegistry:
         0x1000:
             abbreviation: Start
             description: Start page
+            tags: []
         0x1980:
             abbreviation: Timeline
             description: Sinclair computing Timeline
+            tags: []
         0x1981:
             abbreviation: '1981'
             description: Before the ZX Spectrum
+            tags: []
         0x1982:
             abbreviation: '1982'
             description: Released 1982
+            tags: []
         0x1983:
             abbreviation: '1983'
             description: Released 1983
+            tags: []
         0x1984:
             abbreviation: '1984'
             description: Released 1984
+            tags: []
         0x1985:
             abbreviation: '1985'
             description: Released 1985
+            tags: []
         0x1986:
             abbreviation: '1986'
             description: Released 1986
+            tags: []
         0xff00:
             abbreviation: TOC
             description: Table of contents
+            tags: []
         0xfff0:
             abbreviation: Test
             description: Test page
+            tags: []
         0xffff:
             abbreviation: About
             description: About TeleZX
+            tags: []
     ignored:
     - 0xff01
     - 0xff02
@@ -61,3 +72,4 @@ ZXRegistry:
     - 0xff19
     - 0xff1a
     - 0xff1b
+    tags: {}

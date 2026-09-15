@@ -1,0 +1,64 @@
+1000            Start
+1001            What's new
+1400            Marketplace
+1401            Advertising
+1402            Local listings
+1403    14FF    <entries>
+1500    15FF    Humour
+1600    1610    Cooking
+1611            Pen pals
+1612            Weather
+1900    1910    Stars (Horoscope)
+
+1980    2040    Releases by year
+2200            Hardware
+2300            Computers
+2301            ZX80
+2302            ZX81
+2303            ZX Spectrum
+2304            ZX Spectrum+
+2303            ZX Spectrum 128K
+2304            ZX Spectrum +2
+2305            ZX Spectrum +2A
+2306            ZX Spectrum +2B
+2307            ZX Spectrum +3
+2308    23FD    <entries>
+23FE            Harlequin 48k
+23FF            TheSpectrum
+2500            Expansions
+                Kempston Joystick
+                Interface 1
+                Interface 2
+        25FD    <entries>
+25FE            TZXDuino
+25FF            Interface 2.021
+2600            Peripherals
+2601    26FF    <entries>
+2900            Electronics corner
+2901    29FF    <entries>
+3000            Games
+3001            Genres
+                Adventure
+                Action
+                Arcade
+                Beat'em up
+                Educational
+                Light-Gun
+                Puzzle
+                Racing
+                RPG
+                Shoot'em up
+                Simulation
+                Sports
+                Strategy
+3100            <entries>
+3E00            Cheats
+4000            Gallery
+6502            The dark side
+7000            Telesoftware
+8000            News
+8001    8FFF    <entries>
+9080            Z80
+FF00    FF19    TOC
+FFF0            Test pages
+FFFF            About TeleZX
