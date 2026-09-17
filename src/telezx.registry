@@ -33,7 +33,7 @@ ZXRegistry:
             description: Released 1986
             tags: []
         0x3001:
-            abbreviation: null
+            abbreviation: Genre
             description: 'Games: Genres'
             tags: []
         0x3004:
@@ -94,17 +94,38 @@ ZXRegistry:
     - 0xff1b
     tags:
         genre_action:
+            export_abbreviation: null
+            export_description: "Games: Action"
             export_id: 0x3004
+            export_link_a: 0x3001
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
             name: genre_action
             tag_group: genres
-            title: "Games: Action"
         genre_arcade:
+            export_abbreviation: null
+            export_description: "Games: Arcade"
             export_id: 0x3006
+            export_link_a: 0x3001
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
             name: genre_arcade
             tag_group: genres
-            title: "Games: Arcade"
         genres:
+            export_abbreviation: "Genre"
+            export_description: "Games: Genres"
             export_id: 0x3001
+            export_link_a: 0x3000
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
             name: genres
             tag_group: null
-            title: "Games: Genres"
