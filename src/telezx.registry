@@ -32,6 +32,12 @@ ZXRegistry:
             abbreviation: '1986'
             description: Released 1986
             tags: []
+        0x3100:
+            abbreviation: JETPAC
+            description: Jet Pac
+            tags:
+            - genre_arcade
+            - genre_action
         0xff00:
             abbreviation: TOC
             description: Table of contents
@@ -72,4 +78,12 @@ ZXRegistry:
     - 0xff19
     - 0xff1a
     - 0xff1b
-    tags: {}
+    tags:
+        genre_action:
+            export_id: 0x3004
+            name: genre_action
+            title: "Games: Action"
+        genre_arcade:
+            export_id: 0x3006
+            name: genre_arcade
+            title: "Games: Arcade"

@@ -38,20 +38,33 @@
 2901    29FF    <entries>
 3000            Games
 3001            Genres
-                Adventure
-                Action
-                Arcade
-                Beat'em up
-                Educational
-                Light-Gun
-                Puzzle
-                Racing
-                RPG
-                Shoot'em up
-                Simulation
-                Sports
-                Strategy
-3100            <entries>
+3002            Adventure
+3003            <entries>
+3004            Action
+3005            <entries>
+3006            Arcade
+3007            <entries>
+3008            Beat'em up
+3009            <entries>
+300A            Educational
+300B            <entries>
+300C            Light-Gun
+300D            <entries>
+300E            Puzzle
+300F            <entries>
+3010            Racing
+3011            <entries>
+3012            RPG
+3013            <entries>
+3014            Shoot'em up
+3015            <entries>
+3016            Simulation
+3017            <entries>
+3018            Sports
+3019            <entries>
+301A            Strategy
+301B    30FF    <genres>
+3100            <game entries>
 3E00            Cheats
 4000            Gallery
 6502            The dark side

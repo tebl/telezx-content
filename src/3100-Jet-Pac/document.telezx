@@ -1,0 +1,48 @@
+ZXDocument:
+    abbreviation: JETPAC
+    description: Jet Pac
+    document_id: 0x3100
+    link_a: null
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages: []
+    tags: [ 'genre_arcade', 'genre_action' ]
+    pages:
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Jetpac 1983 Ultimate Play The Game 16K
+            scr_path: 00-Jet-Pac.scr
+            text_attribute: 0x38
+            text_link_attribute: 0x39
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - " _JET PAC_by____                "
+            - " _Ultimate______                "
+            - " _Play the Game_                "
+            - " _Released: 1983                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "

@@ -1,8 +1,8 @@
 ZXDocument:
-    abbreviation: TOC-Q
-    description: Table of contents (Q)
-    document_id: 0xff12
-    link_a: 0xff00
+    abbreviation: null
+    description: 'Games: Arcade'
+    document_id: 0x3006
+    link_a: null
     link_a_txt: null
     link_b: null
     link_b_txt: null
