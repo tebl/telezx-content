@@ -19,8 +19,8 @@ ZXDocument:
                 source: Fuse Emulator
                 title: Jetpac 1983 Ultimate Play The Game 16K
             scr_path: 01-Jet-Pac.scr
-            text_attribute: 0x38
-            text_link_attribute: 0x39
+            text_attribute: 0x78
+            text_link_attribute: 0x7b
             text_blank_character: _
             text_lines:
             - "                                "

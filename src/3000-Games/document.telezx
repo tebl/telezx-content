@@ -1,0 +1,15 @@
+ZXDocument:
+    abbreviation: Games
+    description: Games
+    document_id: 0x3000
+    link_a: 0x1000
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: 0x3001
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
+    tags: []

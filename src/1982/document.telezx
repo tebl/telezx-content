@@ -25,7 +25,9 @@ ZXDocument:
                 source: Fuse Emulator
                 title: The Hobbit Screenshot
             scr_path: 03-The-Hobbit.scr
-            text_attribute: -2
+            text_attribute: 0x78
+            text_link_attribute: 0x7b
+            text_blank_character: _
             text_lines:
             - "                                "
             - "                                "
@@ -46,8 +48,8 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
-            - "                                "
-            - "                                "
-            - "                                "
+            - " _The Hobbit_                   "
+            - " _Melbourne__                   "
+            - " _House______                   "
             - "                                "
             - "                                "
