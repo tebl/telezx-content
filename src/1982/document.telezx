@@ -26,7 +26,6 @@ ZXDocument:
                 title: The Hobbit Screenshot
             scr_path: 03-The-Hobbit.scr
             text_attribute: 0x78
-            text_link_attribute: 0x7b
             text_blank_character: _
             text_lines:
             - "                                "
@@ -48,8 +47,45 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
-            - " _The Hobbit_                   "
-            - " _Melbourne__                   "
-            - " _House______                   "
+            - " _The Hobbit____                "
+            - " _Melbourne_____                "
+            - " _House_________                "
             - "                                "
             - "                                "
+            text_link_attribute: 0x7b
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: 3D Tanx Screenshot
+            scr_path: 04-3D-Tanx.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                  ____________  "
+            - "                  _3D Tanx____  "
+            - "                  _dk'tronics_  "
+            - "                  ____________  "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7b
+    tags: []
