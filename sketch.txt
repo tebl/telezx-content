@@ -1,31 +1,36 @@
+0003            Page 3
 1000            Start
 1001            What's new
-1400            Marketplace
-1401            Advertising
-1402            Local listings
-1403    14FF    <entries>
+
 1500    15FF    Humour
 1600    1610    Cooking
 1611            Pen pals
 1612            Weather
-1900    1910    Stars (Horoscope)
 
+1700            On the tube
+1701            <tag listing>
+1702    17FF    <entries>
+
+1900    1910    Stars (Horoscope)
 1980    2040    Releases by year
 2200            Hardware
+2201            <list hardware>
 2300            Computers
-2301            ZX80
-2302            ZX81
-2303            ZX Spectrum
-2304            ZX Spectrum+
-2303            ZX Spectrum 128K
-2304            ZX Spectrum +2
-2305            ZX Spectrum +2A
-2306            ZX Spectrum +2B
-2307            ZX Spectrum +3
+2301            <list computers>
+2302            ZX80
+2303            ZX81
+2304            ZX Spectrum
+2305            ZX Spectrum+
+2306            ZX Spectrum 128K
+2307            ZX Spectrum +2
+2308            ZX Spectrum +2A
+2309            ZX Spectrum +2B
+230A            ZX Spectrum +3
 2308    23FD    <entries>
 23FE            Harlequin 48k
 23FF            TheSpectrum
 2500            Expansions
+2501            <list expansions>
                 Kempston Joystick
                 Interface 1
                 Interface 2
@@ -33,11 +38,12 @@
 25FE            TZXDuino
 25FF            Interface 2.021
 2600            Peripherals
-2601    26FF    <entries>
+2601            <list peripherals>
+2602    26FF    <entries>
 2900            Electronics corner
 2901    29FF    <entries>
 3000            Games
-3001            Genres
+3001            <list genres>
 3002            Adventure
 3003            <entries>
 3004            Action
@@ -63,15 +69,33 @@
 3018            Sports
 3019            <entries>
 301A            Strategy
-301B    30FF    <genres>
-3100            <game entries>
-3E00            Cheats
+        30FF    <reseved genres>
+3100    3DFF    <game entries>
+3E00    3EFF    Cheats
+3F00            Software
+3F01            <list software>
+3F02    3FFF    <entries>
 4000            Gallery
+5000            Marketplace
+5001            Advertising
+5100            Local listings
+5101    51FF    <entries>
+5200            Books
+5201    52FF    <list genres>
+5300    56FF    <entries>
+5700            Magazine
+5701    57FF    <entries>
+
 6502            The dark side
 7000            Telesoftware
+7001    71FF    <entries>
 8000            News
 8001    8FFF    <entries>
-9080            Z80
+
+9000            Programming
+9100            Basic
+9200            Z80
+
 FF00    FF19    TOC
 FFF0            Test pages
 FFFF            About TeleZX
