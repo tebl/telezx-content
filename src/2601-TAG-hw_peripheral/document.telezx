@@ -1,0 +1,16 @@
+ZXDocument:
+    abbreviation: List
+    description: 'Hardware: Peripherals'
+    document_id: 0x2601
+    include_toc: false
+    link_a: 0x2600
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
+    tags: []
