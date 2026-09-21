@@ -2,6 +2,7 @@ ZXDocument:
     abbreviation: TOC-J
     description: Table of contents (J)
     document_id: 0xff0b
+    include_toc: true
     link_a: 0xff00
     link_a_txt: null
     link_b: null

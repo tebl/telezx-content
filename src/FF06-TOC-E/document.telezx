@@ -2,6 +2,7 @@ ZXDocument:
     abbreviation: TOC-E
     description: Table of contents (E)
     document_id: 0xff06
+    include_toc: true
     link_a: 0xff00
     link_a_txt: null
     link_b: null

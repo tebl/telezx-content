@@ -2,6 +2,7 @@ ZXDocument:
     abbreviation: TOC-Q
     description: Table of contents (Q)
     document_id: 0xff12
+    include_toc: true
     link_a: 0xff00
     link_a_txt: null
     link_b: null

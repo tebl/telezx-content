@@ -2,6 +2,7 @@ ZXDocument:
     abbreviation: TOC-F
     description: Table of contents (F)
     document_id: 0xff07
+    include_toc: true
     link_a: 0xff00
     link_a_txt: null
     link_b: null

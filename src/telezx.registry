@@ -32,18 +32,41 @@ ZXRegistry:
             abbreviation: '1986'
             description: Released 1986
             tags: []
+        0x2201:
+            abbreviation: Hardware
+            description: Categories
+            include_toc: false
+            tags: []
+        0x2301:
+            abbreviation: List
+            description: 'Hardware: Computers'
+            include_toc: false
+            tags: []
+        0x2501:
+            abbreviation: List
+            description: 'Hardware: Expansions'
+            include_toc: false
+            tags: []
+        0x2601:
+            abbreviation: List
+            description: 'Hardware: Peripherals'
+            include_toc: false
+            tags: []
         0x3001:
             abbreviation: Genre
             description: 'Games: Genres'
+            include_toc: false
             tags: []
         0x3004:
             abbreviation: null
             description: 'Games: Action'
+            include_toc: false
             tags:
             - genres
         0x3006:
             abbreviation: null
             description: 'Games: Arcade'
+            include_toc: false
             tags:
             - genres
         0x3100:
@@ -97,6 +120,7 @@ ZXRegistry:
             export_abbreviation: null
             export_description: "Games: Action"
             export_id: 0x3004
+            export_include_toc: false
             export_link_a: 0x3001
             export_link_a_txt: null
             export_link_b: null
@@ -109,6 +133,7 @@ ZXRegistry:
             export_abbreviation: null
             export_description: "Games: Arcade"
             export_id: 0x3006
+            export_include_toc: false
             export_link_a: 0x3001
             export_link_a_txt: null
             export_link_b: null
@@ -121,6 +146,7 @@ ZXRegistry:
             export_abbreviation: "Genre"
             export_description: "Games: Genres"
             export_id: 0x3001
+            export_include_toc: false
             export_link_a: 0x3000
             export_link_a_txt: null
             export_link_b: null
@@ -128,4 +154,56 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: genres
+            tag_group: null
+        hardware:
+            export_abbreviation: "Hardware"
+            export_description: "Hardware: Categories"
+            export_id: 0x2201
+            export_include_toc: false
+            export_link_a: 0x2200
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: hardware
+            tag_group: null
+        hw_computers:
+            export_abbreviation: "List"
+            export_description: "Hardware: Computers"
+            export_id: 0x2301
+            export_include_toc: false
+            export_link_a: 0x2300
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: hw_computers
+            tag_group: null
+        hw_expansions:
+            export_abbreviation: "List"
+            export_description: "Hardware: Expansions"
+            export_id: 0x2501
+            export_include_toc: false
+            export_link_a: 0x2500
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: hw_expansions
+            tag_group: null
+        hw_peripheral:
+            export_abbreviation: "List"
+            export_description: "Hardware: Peripherals"
+            export_id: 0x2601
+            export_include_toc: false
+            export_link_a: 0x2600
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: hw_peripheral
             tag_group: null

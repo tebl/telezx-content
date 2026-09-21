@@ -2,6 +2,7 @@ ZXDocument:
     abbreviation: TOC-R
     description: Table of contents (R)
     document_id: 0xff13
+    include_toc: true
     link_a: 0xff00
     link_a_txt: null
     link_b: null
