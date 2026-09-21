@@ -38,7 +38,7 @@ ZXRegistry:
             include_toc: false
             tags: []
         0x2300:
-            abbreviation: PC
+            abbreviation: PCs
             description: Computers
             tags: []
         0x2301:
@@ -46,6 +46,11 @@ ZXRegistry:
             description: 'Hardware: Computers'
             include_toc: false
             tags: []
+        0x2303:
+            abbreviation: ZX81
+            description: ZX81
+            tags:
+            - hw_computers
         0x2501:
             abbreviation: List
             description: 'Hardware: Expansions'
@@ -55,6 +60,10 @@ ZXRegistry:
             abbreviation: List
             description: 'Hardware: Peripherals'
             include_toc: false
+            tags: []
+        0x3000:
+            abbreviation: Games
+            description: Games
             tags: []
         0x3001:
             abbreviation: Genre

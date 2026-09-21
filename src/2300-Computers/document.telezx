@@ -1,5 +1,5 @@
 ZXDocument:
-    abbreviation: PC
+    abbreviation: PCs
     description: Computers
     document_id: 0x2300
     include_toc: true
