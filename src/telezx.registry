@@ -34,7 +34,7 @@ ZXRegistry:
             tags: []
         0x2201:
             abbreviation: Hardware
-            description: Categories
+            description: 'Hardware: Categories'
             include_toc: false
             tags: []
         0x2301:

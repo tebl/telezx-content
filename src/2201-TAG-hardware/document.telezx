@@ -1,6 +1,6 @@
 ZXDocument:
     abbreviation: Hardware
-    description: Categories
+    description: 'Hardware: Categories'
     document_id: 0x2201
     include_toc: false
     link_a: 0x2200
