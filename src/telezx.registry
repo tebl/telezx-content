@@ -37,6 +37,10 @@ ZXRegistry:
             description: 'Hardware: Categories'
             include_toc: false
             tags: []
+        0x2300:
+            abbreviation: PC
+            description: Computers
+            tags: []
         0x2301:
             abbreviation: List
             description: 'Hardware: Computers'
