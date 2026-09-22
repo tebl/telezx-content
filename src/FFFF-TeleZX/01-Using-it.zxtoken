@@ -653,35 +653,35 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             1:
-                attribute: 6
+                attribute: 70
                 char_code: 84
                 inverted: -1
             2:
-                attribute: 6
+                attribute: 70
                 char_code: 101
                 inverted: -1
             3:
-                attribute: 6
+                attribute: 70
                 char_code: 108
                 inverted: -1
             4:
-                attribute: 6
+                attribute: 70
                 char_code: 101
                 inverted: -1
             5:
-                attribute: 6
+                attribute: 70
                 char_code: 84
                 inverted: -1
             6:
-                attribute: 6
+                attribute: 70
                 char_code: 101
                 inverted: -1
             7:
-                attribute: 6
+                attribute: 70
                 char_code: 120
                 inverted: -1
             8:
-                attribute: 6
+                attribute: 70
                 char_code: 116
                 inverted: -1
             9:
