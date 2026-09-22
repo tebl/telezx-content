@@ -13,4 +13,8 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
-    tags: [ 'hw_computers' ]
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
+    tags:
+    - hw_computers
