@@ -911,7 +911,7 @@ ZXToken:
                 char_code: 133
                 inverted: -1
             1:
-                attribute: 120
+                attribute: 248
                 char_code: 62
                 inverted: -1
             2:
