@@ -15,5 +15,8 @@ ZXDocument:
             zxtoken_path: 00-Introduction.zxtoken
     -   ZXPage_Token:
             export_as: TKN
-            zxtoken_path: 01-Github.zxtoken
+            zxtoken_path: 01-Using-it.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02-Github.zxtoken
     tags: []
