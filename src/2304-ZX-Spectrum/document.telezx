@@ -1,6 +1,6 @@
 ZXDocument:
-    abbreviation: null
-    description: null
+    abbreviation: ZX82
+    description: ZX Spectrum
     document_id: 0x2304
     include_toc: true
     link_a: 0x2300

@@ -51,6 +51,11 @@ ZXRegistry:
             description: ZX81
             tags:
             - hw_computers
+        0x2304:
+            abbreviation: ZX82
+            description: ZX Spectrum
+            tags:
+            - hw_computers
         0x2501:
             abbreviation: List
             description: 'Hardware: Expansions'
