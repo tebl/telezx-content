@@ -1,0 +1,35 @@
+ZXDocument:
+    abbreviation: null
+    description: null
+    document_id: 0x2304
+    include_toc: true
+    link_a: 0x2300
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00-ZX-Spectrum.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02-Inside-ZX-Spectrum.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 03.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 04.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 05.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 06.zxtoken
+    tags:
+    - hw_computers

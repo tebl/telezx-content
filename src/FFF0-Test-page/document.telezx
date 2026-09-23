@@ -2,7 +2,8 @@ ZXDocument:
     abbreviation: Test
     description: Test page
     document_id: 0xfff0
-    link_a: 0x1000
+    include_toc: true
+    link_a: null
     link_a_txt: null
     link_b: null
     link_b_txt: null
@@ -12,3 +13,13 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 03.zxtoken
+    tags: []

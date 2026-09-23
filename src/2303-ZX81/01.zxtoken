@@ -520,11 +520,11 @@ ZXToken:
                 inverted: -1
         4:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 132
                 inverted: -1
             1:
-                attribute: 58
+                attribute: 57
                 char_code: 140
                 inverted: -1
             2:
@@ -649,7 +649,7 @@ ZXToken:
                 inverted: -1
         5:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -778,7 +778,7 @@ ZXToken:
                 inverted: -1
         6:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -907,7 +907,7 @@ ZXToken:
                 inverted: -1
         7:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1036,7 +1036,7 @@ ZXToken:
                 inverted: -1
         8:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 132
                 inverted: -1
             1:
@@ -1165,7 +1165,7 @@ ZXToken:
                 inverted: -1
         9:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1294,7 +1294,7 @@ ZXToken:
                 inverted: -1
         10:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1423,7 +1423,7 @@ ZXToken:
                 inverted: -1
         11:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1552,7 +1552,7 @@ ZXToken:
                 inverted: -1
         12:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1681,7 +1681,7 @@ ZXToken:
                 inverted: -1
         13:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1810,7 +1810,7 @@ ZXToken:
                 inverted: -1
         14:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -1939,7 +1939,7 @@ ZXToken:
                 inverted: -1
         15:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -2068,7 +2068,7 @@ ZXToken:
                 inverted: -1
         16:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
@@ -2197,11 +2197,11 @@ ZXToken:
                 inverted: -1
         17:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
-                attribute: 58
+                attribute: 57
                 char_code: 140
                 inverted: -1
             2:
@@ -2326,11 +2326,11 @@ ZXToken:
                 inverted: -1
         18:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
-                attribute: 58
+                attribute: 57
                 char_code: 140
                 inverted: -1
             2:
@@ -2455,11 +2455,11 @@ ZXToken:
                 inverted: -1
         19:
             0:
-                attribute: 58
+                attribute: 57
                 char_code: 133
                 inverted: -1
             1:
-                attribute: 58
+                attribute: 57
                 char_code: 140
                 inverted: -1
             2:

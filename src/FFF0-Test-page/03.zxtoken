@@ -307,23 +307,23 @@ ZXToken:
                 inverted: -1
             11:
                 attribute: 15
-                char_code: 84
+                char_code: 32
                 inverted: -1
             12:
                 attribute: 15
-                char_code: 101
+                char_code: 32
                 inverted: -1
             13:
                 attribute: 15
-                char_code: 115
+                char_code: 71
                 inverted: -1
             14:
                 attribute: 15
-                char_code: 116
+                char_code: 108
                 inverted: -1
             15:
                 attribute: 15
-                char_code: 32
+                char_code: 121
                 inverted: -1
             16:
                 attribute: 15
@@ -331,15 +331,15 @@ ZXToken:
                 inverted: -1
             17:
                 attribute: 15
-                char_code: 97
+                char_code: 104
                 inverted: -1
             18:
                 attribute: 15
-                char_code: 103
+                char_code: 115
                 inverted: -1
             19:
                 attribute: 15
-                char_code: 101
+                char_code: 32
                 inverted: -1
             20:
                 attribute: 15
@@ -524,120 +524,120 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             1:
-                attribute: 59
-                char_code: 48
+                attribute: 71
+                char_code: 128
                 inverted: -1
             2:
-                attribute: 59
-                char_code: 48
+                attribute: -1
+                char_code: -1
                 inverted: -1
             3:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 129
                 inverted: -1
             4:
-                attribute: 57
-                char_code: 67
-                inverted: -1
-            5:
-                attribute: 57
-                char_code: 111
-                inverted: -1
-            6:
-                attribute: 57
-                char_code: 108
-                inverted: -1
-            7:
-                attribute: 57
-                char_code: 111
-                inverted: -1
-            8:
-                attribute: 57
-                char_code: 117
-                inverted: -1
-            9:
-                attribute: 57
-                char_code: 114
-                inverted: -1
-            10:
-                attribute: 57
-                char_code: 32
-                inverted: -1
-            11:
-                attribute: 57
-                char_code: 98
-                inverted: -1
-            12:
-                attribute: 57
-                char_code: 97
-                inverted: -1
-            13:
-                attribute: 57
-                char_code: 114
-                inverted: -1
-            14:
-                attribute: 57
-                char_code: 115
-                inverted: -1
-            15:
                 attribute: -1
                 char_code: -1
+                inverted: -1
+            5:
+                attribute: 71
+                char_code: 130
+                inverted: -1
+            6:
+                attribute: -1
+                char_code: -1
+                inverted: -1
+            7:
+                attribute: 71
+                char_code: 131
+                inverted: -1
+            8:
+                attribute: -1
+                char_code: -1
+                inverted: -1
+            9:
+                attribute: 71
+                char_code: 132
+                inverted: -1
+            10:
+                attribute: -1
+                char_code: -1
+                inverted: -1
+            11:
+                attribute: 71
+                char_code: 133
+                inverted: -1
+            12:
+                attribute: -1
+                char_code: -1
+                inverted: -1
+            13:
+                attribute: 71
+                char_code: 134
+                inverted: -1
+            14:
+                attribute: -1
+                char_code: -1
+                inverted: -1
+            15:
+                attribute: 71
+                char_code: 135
                 inverted: -1
             16:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             17:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 136
                 inverted: -1
             18:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             19:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 137
                 inverted: -1
             20:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             21:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 138
                 inverted: -1
             22:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             23:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 139
                 inverted: -1
             24:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             25:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 140
                 inverted: -1
             26:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             27:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 141
                 inverted: -1
             28:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             29:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 142
                 inverted: -1
             30:
                 attribute: -1
@@ -653,56 +653,56 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             1:
-                attribute: 59
-                char_code: 48
+                attribute: -1
+                char_code: -1
                 inverted: -1
             2:
-                attribute: 59
-                char_code: 49
+                attribute: -1
+                char_code: -1
                 inverted: -1
             3:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             4:
-                attribute: 57
-                char_code: 67
+                attribute: -1
+                char_code: -1
                 inverted: -1
             5:
-                attribute: 57
-                char_code: 104
+                attribute: -1
+                char_code: -1
                 inverted: -1
             6:
-                attribute: 57
-                char_code: 97
+                attribute: -1
+                char_code: -1
                 inverted: -1
             7:
-                attribute: 57
-                char_code: 114
+                attribute: -1
+                char_code: -1
                 inverted: -1
             8:
-                attribute: 57
-                char_code: 97
+                attribute: -1
+                char_code: -1
                 inverted: -1
             9:
-                attribute: 57
-                char_code: 99
+                attribute: -1
+                char_code: -1
                 inverted: -1
             10:
-                attribute: 57
-                char_code: 116
+                attribute: -1
+                char_code: -1
                 inverted: -1
             11:
-                attribute: 57
-                char_code: 101
+                attribute: -1
+                char_code: -1
                 inverted: -1
             12:
-                attribute: 57
-                char_code: 114
+                attribute: -1
+                char_code: -1
                 inverted: -1
             13:
-                attribute: 57
-                char_code: 115
+                attribute: -1
+                char_code: -1
                 inverted: -1
             14:
                 attribute: -1
@@ -782,40 +782,40 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             1:
-                attribute: 59
-                char_code: 48
+                attribute: 71
+                char_code: 143
                 inverted: -1
             2:
-                attribute: 59
-                char_code: 50
+                attribute: -1
+                char_code: -1
                 inverted: -1
             3:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             4:
-                attribute: 57
-                char_code: 71
+                attribute: -1
+                char_code: -1
                 inverted: -1
             5:
-                attribute: 57
-                char_code: 108
+                attribute: -1
+                char_code: -1
                 inverted: -1
             6:
-                attribute: 57
-                char_code: 121
+                attribute: -1
+                char_code: -1
                 inverted: -1
             7:
-                attribute: 57
-                char_code: 112
+                attribute: -1
+                char_code: -1
                 inverted: -1
             8:
-                attribute: 57
-                char_code: 104
+                attribute: -1
+                char_code: -1
                 inverted: -1
             9:
-                attribute: 57
-                char_code: 115
+                attribute: -1
+                char_code: -1
                 inverted: -1
             10:
                 attribute: -1
