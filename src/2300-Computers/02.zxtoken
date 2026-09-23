@@ -2459,31 +2459,31 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             1:
-                attribute: 56
+                attribute: 71
                 char_code: 99
                 inverted: -1
             2:
-                attribute: 56
+                attribute: 65
                 char_code: 111
                 inverted: -1
             3:
-                attribute: 56
+                attribute: 66
                 char_code: 108
                 inverted: -1
             4:
-                attribute: 56
+                attribute: 67
                 char_code: 111
                 inverted: -1
             5:
-                attribute: 56
+                attribute: 68
                 char_code: 117
                 inverted: -1
             6:
-                attribute: 56
+                attribute: 69
                 char_code: 114
                 inverted: -1
             7:
-                attribute: 56
+                attribute: 70
                 char_code: 115
                 inverted: -1
             8:
@@ -2761,7 +2761,7 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             12:
-                attribute: 16
+                attribute: 80
                 char_code: 32
                 inverted: -1
             13:
@@ -2769,7 +2769,7 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             14:
-                attribute: 48
+                attribute: 112
                 char_code: 32
                 inverted: -1
             15:
@@ -2777,7 +2777,7 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             16:
-                attribute: 32
+                attribute: 96
                 char_code: 32
                 inverted: -1
             17:
@@ -2785,7 +2785,7 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             18:
-                attribute: 8
+                attribute: 72
                 char_code: 32
                 inverted: -1
             19:
@@ -2793,48 +2793,48 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             20:
-                attribute: 57
-                char_code: 40
+                attribute: -1
+                char_code: -1
                 inverted: -1
             21:
-                attribute: 57
-                char_code: 99
+                attribute: -1
+                char_code: -1
                 inverted: -1
             22:
-                attribute: 57
-                char_code: 111
+                attribute: -1
+                char_code: -1
                 inverted: -1
             23:
-                attribute: 57
-                char_code: 110
+                attribute: -1
+                char_code: -1
                 inverted: -1
             24:
-                attribute: 57
-                char_code: 116
+                attribute: -1
+                char_code: -1
                 inverted: -1
             25:
-                attribute: 57
-                char_code: 105
+                attribute: -1
+                char_code: -1
                 inverted: -1
             26:
-                attribute: 57
-                char_code: 110
+                attribute: -1
+                char_code: -1
                 inverted: -1
             27:
-                attribute: 57
-                char_code: 117
+                attribute: -1
+                char_code: -1
                 inverted: -1
             28:
-                attribute: 57
-                char_code: 101
+                attribute: -1
+                char_code: -1
                 inverted: -1
             29:
-                attribute: 57
-                char_code: 115
+                attribute: -1
+                char_code: -1
                 inverted: -1
             30:
-                attribute: 57
-                char_code: 41
+                attribute: -1
+                char_code: -1
                 inverted: -1
             31:
                 attribute: -1

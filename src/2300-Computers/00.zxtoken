@@ -2793,48 +2793,48 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             20:
-                attribute: 57
-                char_code: 40
+                attribute: -1
+                char_code: -1
                 inverted: -1
             21:
-                attribute: 57
-                char_code: 99
+                attribute: -1
+                char_code: -1
                 inverted: -1
             22:
-                attribute: 57
-                char_code: 111
+                attribute: -1
+                char_code: -1
                 inverted: -1
             23:
-                attribute: 57
-                char_code: 110
+                attribute: -1
+                char_code: -1
                 inverted: -1
             24:
-                attribute: 57
-                char_code: 116
+                attribute: -1
+                char_code: -1
                 inverted: -1
             25:
-                attribute: 57
-                char_code: 105
+                attribute: -1
+                char_code: -1
                 inverted: -1
             26:
-                attribute: 57
-                char_code: 110
+                attribute: -1
+                char_code: -1
                 inverted: -1
             27:
-                attribute: 57
-                char_code: 117
+                attribute: -1
+                char_code: -1
                 inverted: -1
             28:
-                attribute: 57
-                char_code: 101
+                attribute: -1
+                char_code: -1
                 inverted: -1
             29:
-                attribute: 57
-                char_code: 115
+                attribute: -1
+                char_code: -1
                 inverted: -1
             30:
-                attribute: 57
-                char_code: 41
+                attribute: -1
+                char_code: -1
                 inverted: -1
             31:
                 attribute: -1
