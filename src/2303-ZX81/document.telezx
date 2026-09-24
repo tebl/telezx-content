@@ -25,5 +25,14 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 04.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 05-Virus.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 06-Ant-Attack.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 07.zxtoken
     tags:
     - hw_computers
