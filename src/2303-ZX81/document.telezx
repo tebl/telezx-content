@@ -28,9 +28,19 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 05-Virus.zxtoken
+            src_about:
+                author: Bob Smith
+                license: Unspecified
+                source: https://bobs-stuff.itch.io/virus
+                title: Virus 16K ZX81 (2010)
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 06-Ant-Attack.zxtoken
+            src_about:
+                author: Bob Smith
+                license: Unspecified
+                source: https://bobs-stuff.itch.io/ant-attack
+                title: Ant Attack 16K ZX81 (2013)
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 07.zxtoken
