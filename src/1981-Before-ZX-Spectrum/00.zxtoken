@@ -1,5 +1,5 @@
 ZXToken:
-    attribute: 56
+    attribute: 0x38
     background: null
     cells:
         0:
@@ -1136,20 +1136,20 @@ ZXToken:
                 char_code: 32
                 inverted: -1
             25:
-                attribute: 7
-                char_code: 32
+                attribute: 6
+                char_code: 77
                 inverted: -1
             26:
-                attribute: 7
-                char_code: 32
+                attribute: 6
+                char_code: 111
                 inverted: -1
             27:
-                attribute: 7
-                char_code: 32
+                attribute: 6
+                char_code: 114
                 inverted: -1
             28:
-                attribute: 7
-                char_code: 32
+                attribute: 6
+                char_code: 101
                 inverted: -1
             29:
                 attribute: 7
@@ -1265,19 +1265,19 @@ ZXToken:
                 char_code: 32
                 inverted: -1
             25:
-                attribute: 7
+                attribute: 6
                 char_code: 32
                 inverted: -1
             26:
-                attribute: 7
-                char_code: 32
+                attribute: 6
+                char_code: 111
                 inverted: -1
             27:
-                attribute: 7
-                char_code: 32
+                attribute: 6
+                char_code: 110
                 inverted: -1
             28:
-                attribute: 7
+                attribute: 6
                 char_code: 32
                 inverted: -1
             29:
@@ -1394,20 +1394,20 @@ ZXToken:
                 char_code: 32
                 inverted: -1
             25:
-                attribute: 7
-                char_code: 32
+                attribute: 3
+                char_code: 50
                 inverted: -1
             26:
-                attribute: 7
-                char_code: 32
+                attribute: 3
+                char_code: 51
                 inverted: -1
             27:
-                attribute: 7
-                char_code: 32
+                attribute: 3
+                char_code: 48
                 inverted: -1
             28:
-                attribute: 7
-                char_code: 32
+                attribute: 3
+                char_code: 51
                 inverted: -1
             29:
                 attribute: 7
