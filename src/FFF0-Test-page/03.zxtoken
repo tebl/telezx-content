@@ -1862,32 +1862,32 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             13:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 209
                 inverted: -1
             14:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             15:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 210
                 inverted: -1
             16:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             17:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 211
                 inverted: -1
             18:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             19:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 212
                 inverted: -1
             20:
                 attribute: -1
