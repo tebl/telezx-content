@@ -2,14 +2,13 @@ ZXDocument:
     abbreviation: JETPAC
     description: Jet Pac
     document_id: 0x3100
+    include_toc: true
     link_a: null
     link_a_txt: null
     link_b: null
     link_b_txt: null
     link_c: null
     link_c_txt: null
-    pages: []
-    tags: [ 'genre_arcade', 'genre_action' ]
     pages:
     -   ZXPage_Overlay:
             scr_about:
@@ -19,7 +18,6 @@ ZXDocument:
                 title: Jetpac 1983 Ultimate Play The Game 16K
             scr_path: 00-Jet-Pac.scr
             text_attribute: 0x38
-            text_link_attribute: 0x39
             text_blank_character: _
             text_lines:
             - "                                "
@@ -34,10 +32,6 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
-            - " _JET PAC_by____                "
-            - " _Ultimate______                "
-            - " _Play the Game_                "
-            - " _Released: 1983                "
             - "                                "
             - "                                "
             - "                                "
@@ -46,3 +40,93 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x39
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02.zxtoken
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Jetpac 1983 Ultimate Play The Game 16K
+            scr_path: 03-Gameplay.scr
+            text_attribute: 0x38
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x39
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 04.zxtoken
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Jetpac 1983 Ultimate Play The Game 16K
+            scr_path: 05-Victory.scr
+            text_attribute: 0x38
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x39
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 06-Verdict.zxtoken
+    tags:
+    - genre_arcade
+    - genre_action
