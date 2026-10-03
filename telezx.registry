@@ -1,9 +1,25 @@
 ZXRegistry:
     entries:
+        0x6a5:
+            abbreviation: List
+            description: On the tube
+            include_toc: false
+            tags: []
         0x1000:
             abbreviation: Start
             description: Start page
             tags: []
+        0x1701:
+            abbreviation: List
+            description: On the tube
+            include_toc: false
+            tags: []
+        0x1702:
+            abbreviation: null
+            description: Good luck, have fun...
+            tags:
+            - on_tv
+            - movies
         0x1980:
             abbreviation: Timeline
             description: Sinclair computing Timeline
@@ -224,4 +240,30 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: hw_peripheral
+            tag_group: null
+        movies:
+            export_abbreviation: "List"
+            export_description: "Movies"
+            export_id: null
+            export_include_toc: true
+            export_link_a: null
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: movies
+            tag_group: null
+        on_tv:
+            export_abbreviation: "List"
+            export_description: "On the tube"
+            export_id: 0x1701
+            export_include_toc: false
+            export_link_a: 0x1700
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: on_tv
             tag_group: null
