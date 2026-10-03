@@ -9,6 +9,10 @@ ZXRegistry:
             abbreviation: Start
             description: Start page
             tags: []
+        0x1700:
+            abbreviation: OnTube
+            description: On the Tube
+            tags: []
         0x1701:
             abbreviation: List
             description: On the tube
