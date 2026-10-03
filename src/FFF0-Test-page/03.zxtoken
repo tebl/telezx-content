@@ -1894,16 +1894,16 @@ ZXToken:
                 char_code: -1
                 inverted: -1
             21:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 213
                 inverted: -1
             22:
                 attribute: -1
                 char_code: -1
                 inverted: -1
             23:
-                attribute: -1
-                char_code: -1
+                attribute: 71
+                char_code: 214
                 inverted: -1
             24:
                 attribute: -1
