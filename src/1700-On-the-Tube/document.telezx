@@ -7,7 +7,7 @@ ZXDocument:
     link_a_txt: null
     link_b: null
     link_b_txt: null
-    link_c: 0x1702
+    link_c: 0x1701
     link_c_txt: LIST
     pages:
     -   ZXPage_Token:
