@@ -80,11 +80,25 @@
 5001            Advertising
 5100            Local listings
 5101    51FF    <entries>
-5200            Books
-5201    52FF    <list genres>
-5300    56FF    <entries>
-5700            Magazine
-5701    57FF    <entries>
+
+5200            Reading corner
+5201            <list genres>
+5202            |\____  Books
+5203            | |     <list genres>
+5204            | |\______  Books: Electronics
+5205            | |         <list entries>
+5206            | |\______  Books: Gaming
+5207            | |         <list entries>
+5208            | |\______  Books: Programming
+5209            | |         <list entries>
+520A            | |\______  Books: Technology
+520B            | |         <list entries>
+520C    52FB    | |\______  <reseved>
+52FC            |  \______  Books: Other
+52FD            |           <list entries>
+52FE             \____  Magazines
+52FF                    <list entries>
+5300    5BFF    <entries>
 
 6502            The dark side
 7000            Telesoftware

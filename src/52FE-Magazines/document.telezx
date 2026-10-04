@@ -1,0 +1,17 @@
+ZXDocument:
+    abbreviation: Magazine
+    description: Magazines
+    document_id: 0x52fe
+    include_toc: true
+    link_a: 0x5200
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: 0x52ff
+    link_c_txt: "List"
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
+    tags:
+    - genre_reading

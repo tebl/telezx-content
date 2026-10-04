@@ -113,6 +113,41 @@ ZXRegistry:
             tags:
             - genre_arcade
             - genre_action
+        0x5200:
+            abbreviation: OnShelf
+            description: Reading corner
+            tags: []
+        0x5201:
+            abbreviation: null
+            description: 'Reading: Categories'
+            include_toc: false
+            tags: []
+        0x5202:
+            abbreviation: Books
+            description: Books
+            tags:
+            - genre_reading
+        0x5203:
+            abbreviation: null
+            description: Book Genres
+            include_toc: false
+            tags: []
+        0x5207:
+            abbreviation: null
+            description: 'Books: Gaming'
+            include_toc: false
+            tags:
+            - books_genres
+        0x52fe:
+            abbreviation: Magazine
+            description: Magazines
+            tags:
+            - genre_reading
+        0x5303:
+            abbreviation: null
+            description: Compendium of ZX Spect...
+            tags:
+            - books_gaming
         0xff00:
             abbreviation: TOC
             description: Table of contents
@@ -154,6 +189,32 @@ ZXRegistry:
     - 0xff1a
     - 0xff1b
     tags:
+        books_gaming:
+            export_abbreviation: null
+            export_description: "Books: Gaming"
+            export_id: 0x5207
+            export_include_toc: false
+            export_link_a: 0x5206
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: books_gaming
+            tag_group: books_genres
+        books_genres:
+            export_abbreviation: null
+            export_description: "Book Genres"
+            export_id: 0x5203
+            export_include_toc: false
+            export_link_a: 0x5202
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: books_genres
+            tag_group: null
         genre_action:
             export_abbreviation: null
             export_description: "Games: Action"
@@ -180,6 +241,19 @@ ZXRegistry:
             export_link_c_txt: null
             name: genre_arcade
             tag_group: genres
+        genre_reading:
+            export_abbreviation: null
+            export_description: "Reading: Categories"
+            export_id: 0x5201
+            export_include_toc: false
+            export_link_a: 0x5200
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: genre_reading
+            tag_group: null
         genres:
             export_abbreviation: "Genre"
             export_description: "Games: Genres"
