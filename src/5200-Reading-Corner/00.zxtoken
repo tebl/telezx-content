@@ -1241,7 +1241,7 @@ ZXToken:
                 char_code: 117
                 inverted: -1
             19:
-                attribute: 56
+                attribute: 57
                 char_code: 46
                 inverted: -1
             20:

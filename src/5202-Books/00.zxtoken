@@ -1315,43 +1315,43 @@ ZXToken:
                 inverted: -1
             5:
                 attribute: 57
-                char_code: 32
+                char_code: 105
                 inverted: -1
             6:
                 attribute: 57
-                char_code: 115
+                char_code: 110
                 inverted: -1
             7:
                 attribute: 57
-                char_code: 112
+                char_code: 103
                 inverted: -1
             8:
                 attribute: 57
-                char_code: 97
+                char_code: 32
                 inverted: -1
             9:
                 attribute: 57
-                char_code: 99
+                char_code: 115
                 inverted: -1
             10:
                 attribute: 57
-                char_code: 101
+                char_code: 112
                 inverted: -1
             11:
                 attribute: 57
-                char_code: 46
+                char_code: 97
                 inverted: -1
             12:
-                attribute: -1
-                char_code: -1
+                attribute: 57
+                char_code: 99
                 inverted: -1
             13:
-                attribute: -1
-                char_code: -1
+                attribute: 57
+                char_code: 101
                 inverted: -1
             14:
-                attribute: -1
-                char_code: -1
+                attribute: 57
+                char_code: 46
                 inverted: -1
             15:
                 attribute: -1
@@ -1476,7 +1476,7 @@ ZXToken:
                 inverted: -1
             13:
                 attribute: 56
-                char_code: 160
+                char_code: 32
                 inverted: -1
             14:
                 attribute: 56
@@ -1484,7 +1484,7 @@ ZXToken:
                 inverted: -1
             15:
                 attribute: 56
-                char_code: 32
+                char_code: 160
                 inverted: -1
             16:
                 attribute: 56
@@ -1605,7 +1605,7 @@ ZXToken:
                 inverted: -1
             13:
                 attribute: 56
-                char_code: 182
+                char_code: 208
                 inverted: -1
             14:
                 attribute: 56
@@ -1613,7 +1613,7 @@ ZXToken:
                 inverted: -1
             15:
                 attribute: 56
-                char_code: 181
+                char_code: 170
                 inverted: -1
             16:
                 attribute: 56
