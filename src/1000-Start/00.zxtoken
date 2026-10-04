@@ -2189,7 +2189,7 @@ ZXToken:
                 inverted: -1
             30:
                 attribute: 123
-                char_code: 48
+                char_code: 50
                 inverted: -1
             31:
                 attribute: 57
@@ -2310,15 +2310,15 @@ ZXToken:
                 inverted: -1
             28:
                 attribute: 123
-                char_code: 55
+                char_code: 50
                 inverted: -1
             29:
                 attribute: 123
-                char_code: 48
+                char_code: 70
                 inverted: -1
             30:
                 attribute: 123
-                char_code: 48
+                char_code: 69
                 inverted: -1
             31:
                 attribute: 57
