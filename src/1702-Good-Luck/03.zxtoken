@@ -2528,11 +2528,11 @@ ZXToken:
                 inverted: -1
             18:
                 attribute: 56
-                char_code: 108
+                char_code: 101
                 inverted: -1
             19:
                 attribute: 56
-                char_code: 116
+                char_code: 108
                 inverted: -1
             20:
                 attribute: 56
@@ -2637,23 +2637,23 @@ ZXToken:
                 inverted: -1
             13:
                 attribute: 56
-                char_code: 101
+                char_code: 32
                 inverted: -1
             14:
                 attribute: 56
-                char_code: 100
+                char_code: 105
                 inverted: -1
             15:
                 attribute: 56
-                char_code: 32
+                char_code: 110
                 inverted: -1
             16:
                 attribute: 56
-                char_code: 105
+                char_code: 32
                 inverted: -1
             17:
                 attribute: 56
-                char_code: 110
+                char_code: 97
                 inverted: -1
             18:
                 attribute: 56
@@ -2661,27 +2661,27 @@ ZXToken:
                 inverted: -1
             19:
                 attribute: 56
-                char_code: 97
+                char_code: 99
                 inverted: -1
             20:
                 attribute: 56
-                char_code: 32
+                char_code: 111
                 inverted: -1
             21:
                 attribute: 56
-                char_code: 99
+                char_code: 112
                 inverted: -1
             22:
                 attribute: 56
-                char_code: 111
+                char_code: 121
                 inverted: -1
             23:
                 attribute: 56
-                char_code: 112
+                char_code: 32
                 inverted: -1
             24:
                 attribute: 56
-                char_code: 121
+                char_code: 32
                 inverted: -1
             25:
                 attribute: 120

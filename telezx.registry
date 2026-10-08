@@ -145,7 +145,7 @@ ZXRegistry:
             - genre_reading
         0x5303:
             abbreviation: null
-            description: Compendium of ZX Spect...
+            description: Compendium of ZX Spec...
             tags:
             - books_gaming
         0xff00:

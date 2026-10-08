@@ -2222,7 +2222,7 @@ ZXToken:
                 inverted: -1
             6:
                 attribute: 122
-                char_code: 32
+                char_code: 153
                 inverted: -1
             7:
                 attribute: 122
@@ -2347,7 +2347,7 @@ ZXToken:
                 inverted: -1
             5:
                 attribute: 122
-                char_code: 153
+                char_code: 32
                 inverted: -1
             6:
                 attribute: 122
@@ -2472,7 +2472,7 @@ ZXToken:
                 inverted: -1
             4:
                 attribute: 122
-                char_code: 32
+                char_code: 153
                 inverted: -1
             5:
                 attribute: 122
