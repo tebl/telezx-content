@@ -8,7 +8,7 @@ ZXDocument:
     link_b: null
     link_b_txt: null
     link_c: 0x5201
-    link_c_txt: List
+    link_c_txt: Sections
     pages:
     -   ZXPage_Token:
             export_as: TKN

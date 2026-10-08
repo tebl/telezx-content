@@ -119,7 +119,7 @@ ZXRegistry:
             tags: []
         0x5201:
             abbreviation: null
-            description: 'Reading: Categories'
+            description: 'Reading: Sections'
             include_toc: false
             tags: []
         0x5202:
@@ -243,7 +243,7 @@ ZXRegistry:
             tag_group: genres
         genre_reading:
             export_abbreviation: null
-            export_description: "Reading: Categories"
+            export_description: "Reading: Sections"
             export_id: 0x5201
             export_include_toc: false
             export_link_a: 0x5200

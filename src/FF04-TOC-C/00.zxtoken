@@ -609,7 +609,7 @@ ZXToken:
                 inverted: -1
             22:
                 attribute: -1
-                char_code: 116
+                char_code: 46
                 inverted: -1
             23:
                 attribute: -1
@@ -621,7 +621,7 @@ ZXToken:
                 inverted: -1
             25:
                 attribute: -1
-                char_code: 46
+                char_code: -1
                 inverted: -1
             26:
                 attribute: -1
