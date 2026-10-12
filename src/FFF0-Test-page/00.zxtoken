@@ -3098,5 +3098,6 @@ ZXToken:
                 attribute: 0
                 char_code: 32
                 inverted: -1
+    custom_characters: []
     font: font_default
     glyph: font_glyphs
