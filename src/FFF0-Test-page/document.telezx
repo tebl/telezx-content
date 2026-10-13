@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: Test
+    cycle_details:
+        enabled: false
+        period: 0
+        start_at: 0
     description: Test page
     document_id: 0xfff0
     include_toc: true
