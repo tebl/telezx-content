@@ -1,6 +1,6 @@
 ZXToken:
     attribute: 0x38
-    border: 0x81
+    border: 0
     background: null
     cells:
         0:
