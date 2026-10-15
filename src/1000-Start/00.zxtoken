@@ -1,7 +1,7 @@
 ZXToken:
     attribute: 0x38
-    border: 0
     background: null
+    border: 0x0
     cells:
         0:
             0:
@@ -2001,31 +2001,31 @@ ZXToken:
                 inverted: -1
             15:
                 attribute: 120
-                char_code: 62
+                char_code: 79
                 inverted: -1
             16:
                 attribute: 120
-                char_code: 65
+                char_code: 110
                 inverted: -1
             17:
                 attribute: 120
-                char_code: 99
+                char_code: 32
                 inverted: -1
             18:
                 attribute: 120
-                char_code: 116
+                char_code: 84
                 inverted: -1
             19:
                 attribute: 120
-                char_code: 105
+                char_code: 86
                 inverted: -1
             20:
                 attribute: 120
-                char_code: 111
+                char_code: 46
                 inverted: -1
             21:
                 attribute: 120
-                char_code: 110
+                char_code: 46
                 inverted: -1
             22:
                 attribute: 120
@@ -2045,11 +2045,11 @@ ZXToken:
                 inverted: -1
             26:
                 attribute: 123
-                char_code: 51
+                char_code: 49
                 inverted: -1
             27:
                 attribute: 123
-                char_code: 48
+                char_code: 55
                 inverted: -1
             28:
                 attribute: 123
@@ -2057,7 +2057,7 @@ ZXToken:
                 inverted: -1
             29:
                 attribute: 123
-                char_code: 52
+                char_code: 48
                 inverted: -1
             30:
                 attribute: 120
@@ -2130,43 +2130,43 @@ ZXToken:
                 inverted: -1
             15:
                 attribute: 120
-                char_code: 62
+                char_code: 66
                 inverted: -1
             16:
                 attribute: 120
-                char_code: 65
+                char_code: 111
                 inverted: -1
             17:
                 attribute: 120
-                char_code: 100
+                char_code: 111
                 inverted: -1
             18:
                 attribute: 120
-                char_code: 118
+                char_code: 107
                 inverted: -1
             19:
                 attribute: 120
-                char_code: 101
+                char_code: 115
                 inverted: -1
             20:
                 attribute: 120
-                char_code: 110
+                char_code: 104
                 inverted: -1
             21:
                 attribute: 120
-                char_code: 116
+                char_code: 101
                 inverted: -1
             22:
                 attribute: 120
-                char_code: 117
+                char_code: 108
                 inverted: -1
             23:
                 attribute: 120
-                char_code: 114
+                char_code: 102
                 inverted: -1
             24:
                 attribute: 120
-                char_code: 101
+                char_code: 46
                 inverted: -1
             25:
                 attribute: 120
@@ -2174,11 +2174,11 @@ ZXToken:
                 inverted: -1
             26:
                 attribute: 123
-                char_code: 51
+                char_code: 53
                 inverted: -1
             27:
                 attribute: 123
-                char_code: 48
+                char_code: 50
                 inverted: -1
             28:
                 attribute: 123
@@ -2186,7 +2186,7 @@ ZXToken:
                 inverted: -1
             29:
                 attribute: 123
-                char_code: 50
+                char_code: 48
                 inverted: -1
             30:
                 attribute: 120
@@ -2259,39 +2259,39 @@ ZXToken:
                 inverted: -1
             15:
                 attribute: 120
-                char_code: 62
+                char_code: 84
                 inverted: -1
             16:
                 attribute: 120
-                char_code: 65
+                char_code: 101
                 inverted: -1
             17:
                 attribute: 120
-                char_code: 114
+                char_code: 115
                 inverted: -1
             18:
                 attribute: 120
-                char_code: 99
+                char_code: 116
                 inverted: -1
             19:
                 attribute: 120
-                char_code: 97
+                char_code: 32
                 inverted: -1
             20:
                 attribute: 120
-                char_code: 100
+                char_code: 112
                 inverted: -1
             21:
                 attribute: 120
-                char_code: 101
+                char_code: 97
                 inverted: -1
             22:
                 attribute: 120
-                char_code: 46
+                char_code: 103
                 inverted: -1
             23:
                 attribute: 120
-                char_code: 46
+                char_code: 101
                 inverted: -1
             24:
                 attribute: 120
@@ -2303,19 +2303,19 @@ ZXToken:
                 inverted: -1
             26:
                 attribute: 123
-                char_code: 51
+                char_code: 70
                 inverted: -1
             27:
                 attribute: 123
-                char_code: 48
+                char_code: 70
                 inverted: -1
             28:
                 attribute: 123
-                char_code: 48
+                char_code: 70
                 inverted: -1
             29:
                 attribute: 123
-                char_code: 54
+                char_code: 48
                 inverted: -1
             30:
                 attribute: 120
