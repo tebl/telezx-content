@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: Genre
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: 'Games: Genres'
     document_id: 0x3001
     include_toc: false

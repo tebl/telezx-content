@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: TOC-Q
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: Table of contents (Q)
     document_id: 0xff12
     include_toc: true

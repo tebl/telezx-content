@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: TOC-U
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: Table of contents (U)
     document_id: 0xff16
     include_toc: true

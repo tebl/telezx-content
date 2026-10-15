@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: TOC-J
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: Table of contents (J)
     document_id: 0xff0b
     include_toc: true

@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: Hardware
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: 'Hardware: Categories'
     document_id: 0x2201
     include_toc: false

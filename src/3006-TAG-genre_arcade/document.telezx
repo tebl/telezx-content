@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: null
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: 'Games: Arcade'
     document_id: 0x3006
     include_toc: false

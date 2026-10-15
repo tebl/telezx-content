@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: TOC-K
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: Table of contents (K)
     document_id: 0xff0c
     include_toc: true

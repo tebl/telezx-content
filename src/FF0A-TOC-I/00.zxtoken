@@ -1,6 +1,7 @@
 ZXToken:
     attribute: 0x38
     background: null
+    border: 0x0
     cells:
         0:
             0:
@@ -3098,5 +3099,6 @@ ZXToken:
                 attribute: 0
                 char_code: 32
                 inverted: -1
+    custom_characters: []
     font: font_default
     glyph: font_glyphs

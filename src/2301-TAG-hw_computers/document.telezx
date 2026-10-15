@@ -1,5 +1,9 @@
 ZXDocument:
     abbreviation: List
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: 'Hardware: Computers'
     document_id: 0x2301
     include_toc: false

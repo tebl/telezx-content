@@ -9,6 +9,10 @@ ZXRegistry:
             abbreviation: Start
             description: Start page
             tags: []
+        0x1001:
+            abbreviation: Updates
+            description: What's new?
+            tags: []
         0x1700:
             abbreviation: OnTube
             description: On the Tube
@@ -34,23 +38,23 @@ ZXRegistry:
             tags: []
         0x1982:
             abbreviation: '1982'
-            description: Released 1982
+            description: '1982'
             tags: []
         0x1983:
             abbreviation: '1983'
-            description: Released 1983
+            description: '1983'
             tags: []
         0x1984:
             abbreviation: '1984'
-            description: Released 1984
+            description: '1984'
             tags: []
         0x1985:
             abbreviation: '1985'
-            description: Released 1985
+            description: '1985'
             tags: []
         0x1986:
             abbreviation: '1986'
-            description: Released 1986
+            description: '1986'
             tags: []
         0x2201:
             abbreviation: Hardware
