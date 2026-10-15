@@ -1,0 +1,20 @@
+ZXDocument:
+    abbreviation: Updates
+    cycle_details:
+        enabled: true
+        period: 20
+        start_at: 0
+    description: What's new?
+    document_id: 0x1001
+    include_toc: true
+    link_a: 0x1000
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
+    tags: []
