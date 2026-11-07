@@ -1,6 +1,6 @@
 ZXRegistry:
     entries:
-        0x6a5:
+        0x6A5:
             abbreviation: List
             description: On the tube
             include_toc: false
@@ -142,7 +142,7 @@ ZXRegistry:
             include_toc: false
             tags:
             - books_genres
-        0x52fe:
+        0x52FE:
             abbreviation: Magazine
             description: Magazines
             tags:
@@ -152,46 +152,46 @@ ZXRegistry:
             description: Compendium of ZX Spec...
             tags:
             - books_gaming
-        0xff00:
+        0xFF00:
             abbreviation: TOC
             description: Table of contents
             tags: []
-        0xfff0:
+        0xFFF0:
             abbreviation: Test
             description: Test page
             tags: []
-        0xffff:
+        0xFFFF:
             abbreviation: About
             description: About TeleZX
             tags: []
     ignored:
-    - 0xff01
-    - 0xff02
-    - 0xff03
-    - 0xff04
-    - 0xff05
-    - 0xff06
-    - 0xff07
-    - 0xff08
-    - 0xff09
-    - 0xff0a
-    - 0xff0b
-    - 0xff0c
-    - 0xff0d
-    - 0xff0e
-    - 0xff0f
-    - 0xff10
-    - 0xff11
-    - 0xff12
-    - 0xff13
-    - 0xff14
-    - 0xff15
-    - 0xff16
-    - 0xff17
-    - 0xff18
-    - 0xff19
-    - 0xff1a
-    - 0xff1b
+    - 0xFF01
+    - 0xFF02
+    - 0xFF03
+    - 0xFF04
+    - 0xFF05
+    - 0xFF06
+    - 0xFF07
+    - 0xFF08
+    - 0xFF09
+    - 0xFF0A
+    - 0xFF0B
+    - 0xFF0C
+    - 0xFF0D
+    - 0xFF0E
+    - 0xFF0F
+    - 0xFF10
+    - 0xFF11
+    - 0xFF12
+    - 0xFF13
+    - 0xFF14
+    - 0xFF15
+    - 0xFF16
+    - 0xFF17
+    - 0xFF18
+    - 0xFF19
+    - 0xFF1A
+    - 0xFF1B
     tags:
         books_gaming:
             export_abbreviation: null
