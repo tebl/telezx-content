@@ -2,10 +2,10 @@ ZXDocument:
     abbreviation: Test
     cycle_details:
         enabled: false
-        period: 0
+        period: 20
         start_at: 0
     description: Test page
-    document_id: 0xfff0
+    document_id: 0xFFF0
     include_toc: true
     link_a: null
     link_a_txt: null
