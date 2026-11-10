@@ -1,7 +1,12 @@
 ZXDocument:
     abbreviation: '1984'
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: '1984'
     document_id: 0x1984
+    include_toc: true
     link_a: 0x1980
     link_a_txt: null
     link_b: 0x1983
@@ -12,3 +17,39 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Sabre Wulf 1984 Ultimate Play The Game
+            scr_path: 01-Sabre-Wulf.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "              _________________ "
+            - "              _Sabre Wulf______ "
+            - "              _Ultimate________ "
+            - "              _Play the Game___ "
+            - "              _Review:[3101]___ "
+            - "              _________________ "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    tags: []

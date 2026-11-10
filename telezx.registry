@@ -117,6 +117,11 @@ ZXRegistry:
             tags:
             - genre_arcade
             - genre_action
+        0x3101:
+            abbreviation: Sabreman
+            description: Sabre Wulf
+            tags:
+            - genre_action
         0x5200:
             abbreviation: OnShelf
             description: Reading corner
