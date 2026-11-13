@@ -1,7 +1,12 @@
 ZXDocument:
     abbreviation: '1983'
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: '1983'
     document_id: 0x1983
+    include_toc: true
     link_a: 0x1980
     link_a_txt: null
     link_b: 0x1982
@@ -12,15 +17,17 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
     -   ZXPage_Overlay:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
                 source: Fuse Emulator
                 title: Jetpac 1983 Ultimate Play The Game 16K
-            scr_path: 01-Jet-Pac.scr
+            scr_path: 02-Jet-Pac.scr
             text_attribute: 0x78
-            text_link_attribute: 0x7b
             text_blank_character: _
             text_lines:
             - "                                "
@@ -47,3 +54,145 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Manic Miner
+            scr_path: 03-Manic-Miner.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Deathchase
+            scr_path: 04-Deathchase.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Psst 1983 Ultimate Play The Game 16K
+            scr_path: 05-Pssst.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Atic Atac 1983 Ultimate Play The Game 48K
+            scr_path: 06-Atic-Atac.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    tags: []

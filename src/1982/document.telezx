@@ -1,7 +1,12 @@
 ZXDocument:
     abbreviation: '1982'
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: '1982'
     document_id: 0x1982
+    include_toc: true
     link_a: 0x1980
     link_a_txt: null
     link_b: 0x1981
@@ -14,7 +19,10 @@ ZXDocument:
             zxtoken_path: 00.zxtoken
     -   ZXPage_Token:
             export_as: TKN
-            zxtoken_path: 01-ZX-Spectrum.zxtoken
+            zxtoken_path: 01.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02-ZX-Spectrum.zxtoken
     -   ZXPage_Overlay:
             scr_about:
                 author: TeleZX
@@ -49,7 +57,7 @@ ZXDocument:
             - " _House_________                "
             - "                                "
             - "                                "
-            text_link_attribute: 0x7b
+            text_link_attribute: 0x7B
     -   ZXPage_Overlay:
             scr_about:
                 author: TeleZX
@@ -84,5 +92,40 @@ ZXDocument:
             - "                                "
             - "                                "
             - "                                "
-            text_link_attribute: 0x7b
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Fuse Emulator
+                title: Horace goes skiing
+            scr_path: 05-Horace-goes-skiing.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
     tags: []
