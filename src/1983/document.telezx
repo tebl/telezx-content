@@ -27,7 +27,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Jetpac 1983 Ultimate Play The Game 16K
             scr_path: 02-Jet-Pac.scr
             text_attribute: 0x78
@@ -62,7 +62,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Manic Miner
             scr_path: 03-Manic-Miner.scr
             text_attribute: 0x78
@@ -97,7 +97,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Deathchase
             scr_path: 04-Deathchase.scr
             text_attribute: 0x78
@@ -132,7 +132,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Psst 1983 Ultimate Play The Game 16K
             scr_path: 05-Pssst.scr
             text_attribute: 0x78
@@ -167,9 +167,44 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Atic Atac 1983 Ultimate Play The Game 48K
             scr_path: 06-Atic-Atac.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Chequered Flag 1983 Psion Software 48K
+            scr_path: 08-Chequered-Flag.scr
             text_attribute: 0x78
             text_blank_character: _
             text_lines:

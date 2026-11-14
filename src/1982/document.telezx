@@ -27,7 +27,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: The Hobbit Screenshot
             scr_path: 03-The-Hobbit.scr
             text_attribute: 0x78
@@ -62,7 +62,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: 3D Tanx Screenshot
             scr_path: 04-3D-Tanx.scr
             text_attribute: 0x78
@@ -97,7 +97,7 @@ ZXDocument:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Horace goes skiing
             scr_path: 05-Horace-goes-skiing.scr
             text_attribute: 0x78
