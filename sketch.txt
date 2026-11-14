@@ -31,9 +31,9 @@
 23FF            TheSpectrum
 2500            Expansions
 2501            <list expansions>
-                Kempston Joystick
-                Interface 1
-                Interface 2
+2502            Kempston Joystick
+2503            Interface 1
+2504            Interface 2
         25FD    <entries>
 25FE            TZXDuino
 25FF            Interface 2.021

@@ -17,4 +17,5 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
-    tags: []
+    tags:
+    - hardware

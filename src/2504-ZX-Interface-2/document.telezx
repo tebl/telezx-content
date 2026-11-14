@@ -1,0 +1,21 @@
+ZXDocument:
+    abbreviation: "IF2"
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
+    description: "ZX Interface 2"
+    document_id: 0x2504
+    include_toc: true
+    link_a: 2501
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00-ZX-Interface-2.zxtoken
+    tags:
+    - hw_expansions

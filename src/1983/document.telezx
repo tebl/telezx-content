@@ -20,6 +20,9 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 01.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 07-ZX-Interface-2.zxtoken
     -   ZXPage_Overlay:
             scr_about:
                 author: TeleZX

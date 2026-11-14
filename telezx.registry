@@ -69,7 +69,8 @@ ZXRegistry:
             abbreviation: List
             description: 'Hardware: Computers'
             include_toc: false
-            tags: []
+            tags:
+            - hardware
         0x2303:
             abbreviation: ZX81
             description: ZX81
@@ -84,12 +85,19 @@ ZXRegistry:
             abbreviation: List
             description: 'Hardware: Expansions'
             include_toc: false
-            tags: []
+            tags:
+            - hardware
+        0x2504:
+            abbreviation: IF2
+            description: ZX Interface 2
+            tags:
+            - hw_expansions
         0x2601:
             abbreviation: List
             description: 'Hardware: Peripherals'
             include_toc: false
-            tags: []
+            tags:
+            - hardware
         0x3000:
             abbreviation: Games
             description: Games
@@ -301,7 +309,7 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: hw_computers
-            tag_group: null
+            tag_group: hardware
         hw_expansions:
             export_abbreviation: "List"
             export_description: "Hardware: Expansions"
@@ -314,7 +322,7 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: hw_expansions
-            tag_group: null
+            tag_group: hardware
         hw_peripheral:
             export_abbreviation: "List"
             export_description: "Hardware: Peripherals"
@@ -327,7 +335,7 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: hw_peripheral
-            tag_group: null
+            tag_group: hardware
         movies:
             export_abbreviation: "List"
             export_description: "Movies"
