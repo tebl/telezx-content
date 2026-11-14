@@ -17,13 +17,16 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
     -   ZXPage_Overlay:
             scr_about:
                 author: TeleZX
                 license: CC BY 4.0
-                source: Fuse Emulator
+                source: Fuse Emulator Screenshot
                 title: Sabre Wulf 1984 Ultimate Play The Game
-            scr_path: 01-Sabre-Wulf.scr
+            scr_path: 02-Sabre-Wulf.scr
             text_attribute: 0x78
             text_blank_character: _
             text_lines:
@@ -49,6 +52,41 @@ ZXDocument:
             - "              _Play the Game___ "
             - "              _Review:[3101]___ "
             - "              _________________ "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Lords of Midnight 1984 Beyond Software
+            scr_path: 03-Lords-of-Midnight.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
             - "                                "
             - "                                "
             text_link_attribute: 0x7B
