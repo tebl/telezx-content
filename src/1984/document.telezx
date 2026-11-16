@@ -90,4 +90,39 @@ ZXDocument:
             - "                                "
             - "                                "
             text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Daley Thompson's Decathlon 1984 Ocean Software
+            scr_path: 04-Daley-Thompsons-Decathlon.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
     tags: []
