@@ -1,7 +1,12 @@
 ZXDocument:
     abbreviation: '1986'
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
     description: '1986'
     document_id: 0x1986
+    include_toc: true
     link_a: 0x1980
     link_a_txt: null
     link_b: 0x1985
@@ -12,3 +17,147 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Paperboy 1986 Elite Systems
+            scr_path: 02-Paperboy.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                    ____________"
+            - "                    _Paperboy___"
+            - "                    _by_________"
+            - "                    _Elite______"
+            - "                    _Systems____"
+            - "                    ____________"
+            - "                    _Official  _"
+            - "                    _conversion_"
+            - "                    _that's all_"
+            - "                    _paper and__"
+            - "                    _most of the"
+            - "                    _mayhem.____"
+            - "                    ____________"
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Ghosts'n Goblins 1986 Elite Systems
+            scr_path: 03-Ghostsn-Goblins.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - " _Ghosts'n Goblins_             "
+            - " _Elite Systems____             "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Highlander 1986 Ocean Software
+            scr_path: 04-Highlander.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "   _Ocean's fall from_          "
+            - "   _grace (Highlander)          "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Jack the Nipper 1986 Gremlin Graphics
+            scr_path: 05-Jack-the-Nipper.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - " _Jack the Nipper__             "
+            - " _Gremlin Graphics_             "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    tags: []
