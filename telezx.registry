@@ -130,6 +130,11 @@ ZXRegistry:
             description: Sabre Wulf
             tags:
             - genre_action
+        0x3102:
+            abbreviation: KANE
+            description: Kane
+            tags:
+            - genre_action
         0x5200:
             abbreviation: OnShelf
             description: Reading corner

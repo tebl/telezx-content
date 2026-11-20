@@ -160,4 +160,39 @@ ZXDocument:
             - "                                "
             - "                                "
             text_link_attribute: 0x7B
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: ZEsarUX Screenshot
+                title: Kane 1986 Mastertronic
+            scr_path: 06-Kane.scr
+            text_attribute: 0x78
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                _Kane__________ "
+            - "                _Mastertronic__ "
+            - "                _Review:[3100]_ "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
     tags: []
