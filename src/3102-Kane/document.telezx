@@ -203,6 +203,9 @@ ZXDocument:
             text_link_attribute: 0x7B
     -   ZXPage_Token:
             export_as: TKN
-            zxtoken_path: 09-Verdict.zxtoken
+            zxtoken_path: 09.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 0A-Verdict.zxtoken
     tags:
     - genre_action
