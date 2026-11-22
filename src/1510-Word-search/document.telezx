@@ -1,0 +1,24 @@
+ZXDocument:
+    abbreviation: WORDS
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
+    description: "Word Search"
+    document_id: 0x1510
+    include_toc: true
+    link_a: null
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01.zxtoken
+    tags:
+    - entertainment

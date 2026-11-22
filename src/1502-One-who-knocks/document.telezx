@@ -1,0 +1,39 @@
+ZXDocument:
+    abbreviation: "KNOCKS"
+    cycle_details:
+        enabled: true
+        period: 10
+        start_at: 0
+    description: "The one who knocks"
+    document_id: 0x1502
+    include_toc: true
+    link_a: 0x1500
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 01-The-one.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 02-The-one-A.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 03-Q.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 04-A.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 05-Q.zxtoken
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 06-A.zxtoken
+    tags:
+    - entertainment

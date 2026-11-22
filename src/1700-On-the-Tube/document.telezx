@@ -16,4 +16,5 @@ ZXDocument:
     -   ZXPage_Token:
             export_as: TKN
             zxtoken_path: 01.zxtoken
-    tags: []
+    tags:
+    - entertainment

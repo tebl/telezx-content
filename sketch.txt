@@ -2,7 +2,10 @@
 1000            Start
 1001            What's new
 
-1500    15FF    Humour
+1500    15FF    Entertainment
+1502            One who knocks
+1510            Word Search
+15FF            (puzzle #1 solution)
 1600    1610    Cooking
 1611            Pen pals
 1612            Weather
@@ -26,7 +29,8 @@
 2308            ZX Spectrum +2A
 2309            ZX Spectrum +2B
 230A            ZX Spectrum +3
-2308    23FD    <entries>
+2308    23FC    <entries>
+23FD            ZX Spectrum Next
 23FE            Harlequin 48k
 23FF            TheSpectrum
 2500            Expansions
@@ -69,7 +73,7 @@
 3018            Sports
 3019            <entries>
 301A            Strategy
-        30FF    <reseved genres>
+        30FF    <reserved genres>
 3100    3DFF    <game entries>
 3E00    3EFF    Cheats
 3F00            Software
@@ -113,5 +117,3 @@
 FF00    FF19    TOC
 FFF0            Test pages
 FFFF            About TeleZX
-
-Percy the potty pigeon

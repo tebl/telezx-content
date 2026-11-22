@@ -13,6 +13,26 @@ ZXRegistry:
             abbreviation: Updates
             description: What's new?
             tags: []
+        0x1501:
+            abbreviation: null
+            description: Entertainment
+            include_toc: false
+            tags: []
+        0x1502:
+            abbreviation: KNOCKS
+            description: The one who knocks
+            tags:
+            - entertainment
+        0x1510:
+            abbreviation: WORDS
+            description: Word Search
+            tags:
+            - entertainment
+        0x15FF:
+            abbreviation: null
+            description: ZX Heroes word search
+            include_toc: false
+            tags: []
         0x1700:
             abbreviation: OnTube
             description: On the Tube
@@ -21,7 +41,8 @@ ZXRegistry:
             abbreviation: List
             description: On the tube
             include_toc: false
-            tags: []
+            tags:
+            - entertainment
         0x1702:
             abbreviation: null
             description: Good luck, have fun...
@@ -237,6 +258,19 @@ ZXRegistry:
             export_link_c_txt: null
             name: books_genres
             tag_group: null
+        entertainment:
+            export_abbreviation: null
+            export_description: "Entertainment"
+            export_id: 0x1501
+            export_include_toc: false
+            export_link_a: 0x1500
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: entertainment
+            tag_group: null
         genre_action:
             export_abbreviation: null
             export_description: "Games: Action"
@@ -353,7 +387,7 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: movies
-            tag_group: null
+            tag_group: entertainment
         on_tv:
             export_abbreviation: "List"
             export_description: "On the tube"
@@ -366,4 +400,4 @@ ZXRegistry:
             export_link_c: null
             export_link_c_txt: null
             name: on_tv
-            tag_group: null
+            tag_group: entertainment
