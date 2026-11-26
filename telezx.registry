@@ -56,7 +56,8 @@ ZXRegistry:
         0x1981:
             abbreviation: '1981'
             description: Before the ZX Spectrum
-            tags: []
+            tags:
+            - timeline
         0x1982:
             abbreviation: '1982'
             description: '1982'
@@ -72,11 +73,17 @@ ZXRegistry:
         0x1985:
             abbreviation: '1985'
             description: '1985'
-            tags: []
+            tags:
+            - timeline
         0x1986:
             abbreviation: '1986'
             description: '1986'
             tags: []
+        0x2015:
+            abbreviation: '2015'
+            description: '2015'
+            tags:
+            - timeline
         0x2201:
             abbreviation: Hardware
             description: 'Hardware: Categories'
@@ -401,3 +408,16 @@ ZXRegistry:
             export_link_c_txt: null
             name: on_tv
             tag_group: entertainment
+        timeline:
+            export_abbreviation: null
+            export_description: null
+            export_id: null
+            export_include_toc: true
+            export_link_a: null
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: timeline
+            tag_group: null
