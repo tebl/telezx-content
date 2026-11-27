@@ -1,0 +1,20 @@
+ZXDocument:
+    abbreviation: "NEXT"
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
+    description: "ZX Spectrum Next"
+    document_id: 0x23FD
+    include_toc: false
+    link_a: 0x2300
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Token:
+            export_as: TKN
+            zxtoken_path: 00-Next.zxtoken
+    tags: []

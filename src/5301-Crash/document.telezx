@@ -1,0 +1,53 @@
+ZXDocument:
+    abbreviation: "CRASH"
+    cycle_details:
+        enabled: false
+        period: 20
+        start_at: 0
+    description: "CRASH"
+    document_id: 0x5301
+    include_toc: true
+    link_a: 0xf2fe
+    link_a_txt: null
+    link_b: null
+    link_b_txt: null
+    link_c: null
+    link_c_txt: null
+    pages:
+    -   ZXPage_Overlay:
+            scr_about:
+                author: TeleZX
+                license: CC BY 4.0
+                source: Editor
+                title: Crash Logo
+            scr_path: 00-Crash.scr
+            text_attribute: 0x4e
+            text_blank_character: _
+            text_lines:
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "   _We get hands-on with_____   "
+            - "   _CRASH, the magazine that_   "
+            - "   _dared to be different.___   "
+            - "                                "
+            - "   _Established 1984, put to_   "
+            - "   _sleep in 1992 before_____   "
+            - "   _respawning Christmas 2020   "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            - "                                "
+            text_link_attribute: 0x7B
+    tags:
+    - genre_magazine

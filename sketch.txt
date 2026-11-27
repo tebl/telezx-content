@@ -100,9 +100,11 @@
 520C    52FB    | |\______  <reseved>
 52FC            |  \______  Books: Other
 52FD            |           <list entries>
-52FE             \____  Magazines
-52FF                    <list entries>
-5300    5BFF    <entries>
+52FE            |\____  Magazines
+52FF            |\____  <list entries>
+5301            Crash
+5302            FreezeZX
+5301    5BFF    <magazine entries>
 
 6502            The dark side
 7000            Telesoftware

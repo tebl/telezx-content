@@ -30,7 +30,7 @@ ZXRegistry:
             - entertainment
         0x15FF:
             abbreviation: null
-            description: ZX Heroes word search
+            description: Word Search (ZX Heroes)
             include_toc: false
             tags: []
         0x1700:
@@ -109,6 +109,11 @@ ZXRegistry:
             description: ZX Spectrum
             tags:
             - hw_computers
+        0x23FD:
+            abbreviation: NEXT
+            description: ZX Spectrum Next
+            include_toc: false
+            tags: []
         0x2501:
             abbreviation: List
             description: 'Hardware: Expansions'
@@ -193,6 +198,11 @@ ZXRegistry:
             description: Magazines
             tags:
             - genre_reading
+        0x5301:
+            abbreviation: CRASH
+            description: CRASH
+            tags:
+            - genre_magazine
         0x5303:
             abbreviation: null
             description: Compendium of ZX Spec...
@@ -304,6 +314,19 @@ ZXRegistry:
             export_link_c_txt: null
             name: genre_arcade
             tag_group: genres
+        genre_magazine:
+            export_abbreviation: null
+            export_description: null
+            export_id: null
+            export_include_toc: true
+            export_link_a: null
+            export_link_a_txt: null
+            export_link_b: null
+            export_link_b_txt: null
+            export_link_c: null
+            export_link_c_txt: null
+            name: genre_magazine
+            tag_group: null
         genre_reading:
             export_abbreviation: null
             export_description: "Reading: Sections"

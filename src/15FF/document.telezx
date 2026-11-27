@@ -4,7 +4,7 @@ ZXDocument:
         enabled: false
         period: 20
         start_at: 0
-    description: "ZX Heroes word search"
+    description: "Word Search (ZX Heroes)"
     document_id: 0x15FF
     include_toc: false
     link_a: 0x1500
